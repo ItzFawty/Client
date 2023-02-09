@@ -13,6 +13,21 @@
                     Name: "Andrew Tate",
                     ID: "101010"
                 },
+            ],
+            messageInput: "",
+            messages: [
+                {
+                    Name: "Camkou",
+                    When: "Now",
+                    Text: "To co je more vole",
+                    You: true,
+                },
+                {
+                    Name: "Fawdi",
+                    When: "Now",
+                    Text: "Ajta krajta",
+                    You: false,
+                },
             ]
         }
     })
